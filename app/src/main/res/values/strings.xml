@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tecna</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Articles</string>
+    <string name="menu_gallery">Forms</string>
+    <string name="missing_credentials">Failed to provide valid credentials for this sample app</string>
+    <string name="saved_settings_success">Settings saved successfully.</string>
+    <string name="saved_settings_error_fill_required_fields">Fill all required fields.</string>
+    <string name="send_ticket">Enviar uma solicitação</string>
+    <string name="loading_form">Loading form</string>
+    <string name="loading_form_error">Could not load the form.</string>
+    <string name="ticket_success">Success! Ticket created!</string>
+</resources>
